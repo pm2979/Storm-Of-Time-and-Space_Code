@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Engine**: Unity 2022.x+
+- **Engine**: Unity 2022.3.17.f1
 - **Network**: Photon PUN2
 - **Patterns**: Singleton, Observer (EventBus), Strategy (Item System), Data-Driven (ScriptableObject)
 
